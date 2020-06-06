@@ -2,8 +2,8 @@
 This project is my master thesis which examines the association between food environment and diet quality and nutritional status between urban - rural areas in Vietnam.
 
 ## Research questions
-- Is there any association between personal determinants of food choices (income, education, nutrition literacy), neighborhood built food environments (food outlets density and distance to the nearest food outlet) and diet quality?
-- Is there any association between personal determinants of food choices (income, education, nutrition literacy), neighborhood built food environments (food outlets density and distance to the nearest food outlet) and nutritional outcomes?
+- Is there any association between personal determinants of food choices (gender, income, education, nutrition literacy), neighborhood built food environments (food outlets density and distance to the nearest food outlet) and diet quality?
+- Is there any association between personal determinants of food choices (gender, income, education, nutrition literacy), neighborhood built food environments (food outlets density and distance to the nearest food outlet) and nutritional outcomes?
 - Is there any association between diet quality and nutritional outcomes? 
 
 ## Tasks
@@ -14,7 +14,7 @@ This project is my master thesis which examines the association between food env
   - Detect anomalies
   - Validate data quality
 - Develop indexes for food environment, diet quality and nutritional status of the observed participants.
-  - Food environment: I calculated (1) Proximity: distance to the nearest foot outlet, (2) Diversity: number of food outlets within a certain walking distance (such as 500m, 1000m) and (3) Variety: average distance to the 3 closest different chain name food outlets.
+  - Food environment: I calculated (1) Proximity: distance to the nearest foot outlet, (2) Density: number of food outlets per 1000 residents.
   - Diet quality: I adapted the Diet Quality Index - International ([DQI-I](https://inddex.nutrition.tufts.edu/data4diets/indicator/diet-quality-index-international-dqi-i) to Vietnam context. This index is composed of 
   (1) Variety: the number of food groups and number of protein sources that a person consumed in one day
   (2) Adequacy: the percent that a person achieved the Recommended Daily Allowance or national food guidelines for necessary macro and micronutrients (healthy food)
@@ -32,4 +32,14 @@ The data were collected by the International Center for Tropical Agriculture (CI
 - Consumer behavior: socio-demographic characteristics, food purchasing and preparing habits, knowledge and attitude toward nutrition, healthy eating and food safety
 - 24h recall dietary assessment: information about all foods and beverages and dietary supplements consumed by the respondents in the past 24 hours, most commonly, from midnight to midnight the previous day
 - Anthropometry: height, weight, waist circumference
-- Built food environment: geocode the locations of food outlets and study participants' residence
+- Built food environment: urban - periurban - rural setting, geocode the locations of food outlets and study participants' residence
+
+## Summary of conclusions
+- This study found that personal food environment factors associated with diet quality were education, income, nutrition literacy score and gender but in different directions and magnitudes. Rural people in general and women in particular
+had lower odds of central obesity than urban people.
+  - Women had lower Moderation scores than men. 
+  - Education was positively associated with the Variety and the Adequacy components both in women and men while being negatively associated with the Moderation component among women. 
+  - Income was negatively associated with the Moderation component in both women and men. 
+ - External food environment, especially the urban – rural setting, played a significant role in determining diet quality. Namely, people in the rural site, both women and men, had higher Moderation scores compared with urban people. Our study did not find a significant relationship between built food environment (proximity, density) and diet quality.
+- Women were more likely to bear the double burden of malnutrition, with a higher risk for both underweight and central obesity. Men were more likely to have general overweight than women in this population. Age was positively associated with female abdominal obesity while income was negatively associated with female abdominal obesity. We observed increased prevalence and odds of overweight among higher education level among men.
+- This study did not find a significant association between diet quality as well as built food environment and nutritional status.
