@@ -34,12 +34,12 @@ The data were collected by the International Center for Tropical Agriculture (CI
 - Anthropometry: height, weight, waist circumference
 - Built food environment: urban - periurban - rural setting, geocode the locations of food outlets and study participants' residence
 
-## Summary of conclusions
+## Conclusions
 - This study found that personal food environment factors associated with diet quality were education, income, nutrition literacy score and gender but in different directions and magnitudes. Rural people in general and women in particular
 had lower odds of central obesity than urban people.
   - Women had lower Moderation scores than men. 
   - Education was positively associated with the Variety and the Adequacy components both in women and men while being negatively associated with the Moderation component among women. 
   - Income was negatively associated with the Moderation component in both women and men. 
   - External food environment, especially the urban – rural setting, played a significant role in determining diet quality. Namely, people in the rural site, both women and men, had higher Moderation scores compared with urban people. Our study did not find a significant relationship between built food environment (proximity, density) and diet quality.
-- Women were more likely to bear the double burden of malnutrition, with a higher risk for both underweight and central obesity. Men were more likely to have general overweight than women in this population. Age was positively associated with female abdominal obesity while income was negatively associated with female abdominal obesity. We observed increased prevalence and odds of overweight among higher education level among men.
-- This study did not find a significant association between diet quality as well as built food environment and nutritional status.
+- Women were more likely to bear the double burden of malnutrition, with a higher risk for both underweight and central obesity. Men were more likely to have general overweight than women in this population. Age was positively associated with female abdominal obesity while income was negatively associated with female abdominal obesity. We observed increased prevalence and odds of overweight among higher education level among men. There was no association between built food environment and nutritional status.
+- This study did not find a significant association between diet quality and and nutritional status.
