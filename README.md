@@ -7,6 +7,12 @@ This project is my master thesis which examines the association between food env
 - Is there any association between diet quality and nutritional outcomes? 
 
 ## Tasks
+- Prepare data:
+  - Reshape dataframe
+  - Join 4 datasets 
+  - Detect and impute missing values
+  - Detect anomalies
+  - Validate data quality
 - Develop indexes for food environment, diet quality and nutritional status of the observed participants.
   - Food environment: I calculated (1) Proximity: distance to the nearest foot outlet, (2) Diversity: number of food outlets within a certain walking distance (such as 500m, 1000m) and (3) Variety: average distance to the 3 closest different chain name food outlets.
   - Diet quality: I adapted the Diet Quality Index - International ([DQI-I](https://inddex.nutrition.tufts.edu/data4diets/indicator/diet-quality-index-international-dqi-i) to Vietnam context. This index is composed of 
